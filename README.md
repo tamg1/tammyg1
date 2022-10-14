@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tammy Mann Goyal! I'm a 18 year old engineer/investor/designer/founder. I am pursuing Computer Science at the University of British Columbia. Feel free to reach out to me on Instagram  or Linkedin. I love meeting people who enjoy working on hard problems.
+I'm Tammy Mann Goyal! I'm a 18 year old engineer/investor/designer/founder. I am pursuing Computer Science at the University of British Columbia. Feel free to reach out to me on Instagram  or Linkedin. I love challenging problems and meeting new people.
 
 
 - 👯 I’m looking to collaborate on: Building Projects that can impact the world!
