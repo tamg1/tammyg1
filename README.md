@@ -15,3 +15,10 @@ I'm Tammy Mann Goyal! I'm a 18 year old engineer/investor/designer/founder. I am
 - 🔭 I’m currently working on: Founding a media company for Web 3 startups.
 - 🌱 I’m currently learning: Blockchain/Web3 development, Computer Systems and Algorithms
 - 📫 How to reach me: Linkedin or Instagram
+
+
+Connect with me:
+
+Languages and Tools:
+apachecordova aws blender bootstrap csharp css3 git html5 illustrator ionic java javascript mysql nodejs photoshop php python react reactnative unity zapier
+
