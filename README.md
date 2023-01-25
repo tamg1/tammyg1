@@ -17,4 +17,4 @@ I'm Tammy Mann Goyal! I'm a 18 year old engineer/investor. I am pursuing Compute
 - 📫 How to reach me: Linkedin or Instagram
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammymg1&exclude_repo=ProjectColourTrees,AlgorithmsQueueStack,MemoizationAndProblems&layout=compact)](https://github.com/tammymg1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammymg1&exclude_repo=ProjectColourTrees,AlgorithmsQueueStack,MemoizationAndProblems&layout=compact&hide=c++)](https://github.com/tammymg1/github-readme-stats)
