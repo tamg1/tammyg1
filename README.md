@@ -17,4 +17,4 @@ I'm Tammy Mann Goyal! I'm a 19 year old engineer/investor. I am pursuing Compute
 - 📫 How to reach me: Linkedin or Instagram
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammymg1&exclude_repo=ImageSegmentationAlgo,Recursion-programming,PathfindingProject,CPSC221,Github-Testing,MemoizationProject&layout=compact)](https://github.com/tammymg1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammymg1&exclude_repo=Project-draw-tools,Recursion-programming,PathfindingProject,CPSC221,Github-Testing,MemoizationProject&layout=compact)](https://github.com/tammymg1/github-readme-stats)
