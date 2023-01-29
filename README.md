@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tammymg1&label=Profile%20views&color=0e75b6&style=flat" alt="tammymg1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tammy__g1" target="blank"><img src="https://img.shields.io/twitter/follow/tammy__g1?logo=twitter&style=for-the-badge" alt="tammy__g1" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/tammyg1" target="blank"><img src="https://img.shields.io/twitter/follow/tammy__g1?logo=linkedin&style=for-the-badge" alt="tammyg1" /></a> </p>
 
 - 🔭 I’m currently working on **Founding a media company for Web 3 startups.**
 
