@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://medium.com/@tammyg1](https://medium.com/@tammyg1)
 
-- 📫 How to reach me **sancriuse75@gmail or https://www.linkedin.com/in/tammyg1/**
+- 📫 How to reach me **sancriuse75@gmail or [My Linkedin](https://linkedin.com/in/tammyg1)**
 
 - ⚡ Fun fact **I love challenging problems and meeting new people.**
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/tammy__g1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sancriuse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tammyg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tammymg1" height="30" width="40" /></a>
 <a href="https://instagram.com/tammy_mg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tammymg1" height="30" width="40" /></a>
-<a href="https://medium.com/@tammyg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tammygoyal" height="30" width="40" /></a>
+<a href="https://medium.com/@tammyg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tammyg1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
