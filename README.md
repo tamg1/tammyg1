@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammymg1&exclude_repo=Project-draw-tools,Recursion-programming,PathfindingProject,CPSC221,Github-Testing,MemoizationProject&layout=compact)](https://github.com/tammymg1/github-readme-stats)
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tammymg1&show_icons=true&locale=en" alt="tammymg1" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tammymg1&" alt="tammymg1" /></p>
 
