@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Building Projects that can impact the world!**
 
-- 👨‍💻 Most of my projects are available at [my Github](https://github.com/tammyg1/)
+- 👨‍💻 Most of my projects are available at [My Github](https://github.com/tammyg1/)
 
-- 📝 I regularly write articles on [my Medium](https://medium.com/@tammyg1)
+- 📝 I regularly write articles on [My Medium](https://medium.com/@tammyg1)
 
 - 📫 How to reach me **tammymg1@students.cs.ubc.ca or [My Linkedin](https://linkedin.com/in/tammyg1)**
 
