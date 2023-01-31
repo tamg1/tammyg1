@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://medium.com/@tammyg1](https://medium.com/@tammyg1)
 
-- 📫 How to reach me **sancriuse75@gmail or [My Linkedin](https://linkedin.com/in/tammyg1)**
+- 📫 How to reach me **tammymg1@students.cs.ubc.ca or [My Linkedin](https://linkedin.com/in/tammyg1)**
 
 - ⚡ Fun fact **I love challenging problems and meeting new people.**
 
