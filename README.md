@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome to my profile!👋, I'm Tammy!</h1>
 <h3 align="center">A passionate developer/investor. Current at the University of British Columbia to pursue Computer Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tammyg1&label=Profile%20views&color=0e75b6&style=flat" alt="tammyg1" /> </p>
-
 <p align="left"> <a href="https://linkedin.com/in/tammyg1" target="blank"><img src="https://img.shields.io/twitter/follow/tammyg1?logo=linkedin&style=for-the-badge" alt="tammyg1" /></a> </p>
 
 - 🔭 I’m currently working on **Founding a media company for Web 3 startups.**
@@ -28,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **tammymg1@students.cs.ubc.ca or [My Linkedin](https://linkedin.com/in/tammyg1)**
 
 - ⚡ Fun fact **I love challenging problems and meeting new people.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tammyg1&label=Profile%20views&color=0e75b6&style=flat" alt="tammyg1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
