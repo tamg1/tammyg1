@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome to my profile!👋, I'm Tam Goel!</h1>
 <h3 align="center">A passionate developer/investor. Current at the University of British Columbia to pursue Computer Science.</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/tammyg1" target="blank"><img src="https://img.shields.io/twitter/follow/tammyg1?logo=linkedin&style=for-the-badge" alt="tammyg1" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/tamg1" target="blank"><img src="https://img.shields.io/twitter/follow/tammyg1?logo=linkedin&style=for-the-badge" alt="tammyg1" /></a> </p>
 
 - 🔭 I’m currently working on **Founding a media company for Web 3 startups.**
 
